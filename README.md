@@ -22,5 +22,5 @@ In this section, we’re going to learn to run and save notebooks, familiarize o
 
 ### Running Jupyter
 
-On Windows, you can run Jupyter via the shortcut Anaconda adds to your start menu, which will open a new tab in your default web browser. Then, you can find where you downloaded your jupyter notebook file to. 
+On Windows, you can run Jupyter via the shortcut Anaconda adds to your start menu, which will open a new tab in your default web browser. Then, you can find where you downloaded your jupyter notebook file to, open the folder and then click on the file twice and open it.
 
