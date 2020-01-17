@@ -18,10 +18,6 @@ If you are a more advanced user with Python already installed and prefer to mana
 
 pip3 install jupyter
 
-### Creating Your First Notebook
-
-In this section, we’re going to learn to run and save notebooks, familiarize ourselves with their structure, and understand the interface. We’ll become intimate with some core terminology that will steer you towards a practical understanding of how to use Jupyter Notebooks by yourself and set us up for the next section, which steps through an example data analysis and brings everything we learn here to life.
-
 ### Running Jupyter
 
 On Windows, you can run Jupyter via the shortcut Anaconda adds to your start menu, which will open a new tab in your default web browser. Then, you can find where you downloaded your jupyter notebook file to, open the folder and then click on the file twice and open it.
